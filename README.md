@@ -1,6 +1,6 @@
 # remote-sensing-portfolio
 
-**Name:** Vincent Souligny
+**Name:** Vincent Souligny\
 **Course:** 1151_Satellite Remote Sensing Applications and Lab_36620
 
 ## About This Repository
